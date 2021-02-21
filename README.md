@@ -1,1 +1,1 @@
-# learning_git_branch
+# learning_git_reset_and_checkout
